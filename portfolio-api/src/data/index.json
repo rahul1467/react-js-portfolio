@@ -1,0 +1,77 @@
+{
+    "skills": [
+        {
+            "id":1,
+            "src":"./img/product-chain-1.png",
+            "title":"Unity Developer",
+            "description":"Software developer who writes code and scripts and develops product designs for game prototypes and interactive graphical interfaces"
+        },
+        {
+            "id":2,
+            "src":"./img/product-chain-1.png",
+            "title":"C# Developer",
+            "description":"Develop modern applications that run on desktop computers, or even sophisticated back-end processes powering modern web applications"
+        },
+        {
+            "id":3,
+            "src":"./img/product-chain-1.png",
+            "title":"Cocos Developer",
+            "description":"A cross-platform game engine used by many developers all over the world"
+        },
+        {
+            "id":4,
+            "src":"./img/product-chain-1.png",
+            "title":"JS Developer",
+            "description":"A professional who designs software and applications using JavaScript"
+        }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "Game 1",
+        "description": "Game 1 short description",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "Game 2",
+        "description": "Game 2 short description",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Game 3",
+        "description": "Game 3 short description",
+        "link": "View In Github"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Testimonials 1",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Testimonials 2",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Testimonials 3",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
